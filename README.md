@@ -4,6 +4,8 @@
 
 This hands-on project demonstrates the deployment of a secure "Two-tier architecture" on AWS, using a custom Virtual Private Cloud (VPC) and proper infrastructure segmentation. The application layer is hosted on an EC2 instance (public subnet), while the data layer uses Amazon RDS (private subnet), following AWS best practices for security and scalability.
 
+
+
 ---
 
 ## 🧩 Architecture Components
@@ -34,6 +36,10 @@ This hands-on project demonstrates the deployment of a secure "Two-tier architec
 6. **Update WordPress configuration** (`wp-config.php`) with RDS credentials.
 7. **Secure the environment** using Security Groups and subnet isolation.
 
+![AWS Diagram](media/vpc.png)
+![AWS Diagram](media/DB.png)
+![AWS Diagram](media/Web_instance.png)
+
 ---
 
 ## 💻 Tools & AWS Services Used
@@ -55,10 +61,13 @@ This hands-on project demonstrates the deployment of a secure "Two-tier architec
 - ✅ Achieved **clean separation** between the application and data layers.
 - ✅ Gained real-world experience in **AWS networking, compute, and database services**.
 
+![AWS Diagram](media/Untitled video - Made with Clipchamp (2).mp4)
+
+
 ---
 
 ## 📷 Architecture Diagram
-![Prject Diagram](media/Screenshot_9.png)
+![Prject Diagram](media/front.png)
 
 
 ---
@@ -77,6 +86,3 @@ This hands-on project demonstrates the deployment of a secure "Two-tier architec
 
 ---
 
-## 📎 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
