@@ -24,10 +24,10 @@ This hands-on project demonstrates the deployment of a secure "Two-tier architec
 
 ## 🚀 Deployment Steps
 
-1. **Create a VPC** with appropriate CIDR (e.g., `10.0.0.0/16`).
+1. **Create a VPC** with appropriate CIDR.
 2. **Create subnets**:
-   - Public Subnet (e.g., `10.0.1.0/24`)
-   - Private Subnet (e.g., `10.0.2.0/24`)
+   - Public Subnet 
+   - Private Subnet
 3. **Attach an Internet Gateway** and configure the route table for the public subnet.
 4. **Launch an EC2 instance** in the public subnet and install WordPress + Apache + PHP.
 5. **Provision an RDS MySQL instance** in the private subnet.
