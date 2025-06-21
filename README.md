@@ -58,7 +58,7 @@ This hands-on project demonstrates the deployment of a secure "Two-tier architec
 ---
 
 ## 📷 Architecture Diagram
-
+![Prject Diagram](media/Screenshot_9.png)
 
 
 ---
