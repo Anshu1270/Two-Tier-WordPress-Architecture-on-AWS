@@ -59,13 +59,15 @@ This hands-on project demonstrates the deployment of a secure "Two-tier architec
 - ✅ Achieved **clean separation** between the application and data layers.
 - ✅ Gained real-world experience in **AWS networking, compute, and database services**.
 
-📽️ [Download Demo Video](media/Untitled video - Made with Clipchamp (2).mp4)
+🔗 [Watch the demo on Google Drive](https://drive.google.com/file/d/1Jfb-y5TptDA6Z86kNRrBo8UZ0E9rfH7u/view?usp=drive_link)
+
+
 
 
 ---
 
 ## 📷 Architecture Diagram
-![Prject Diagram](media/front.png)
+![AWS Diagram](media/front.png)
 
 
 ---
