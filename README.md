@@ -67,8 +67,8 @@ This hands-on project demonstrates the deployment of a secure "Two-tier architec
 ---
 
 ## 📷 Architecture Diagram
-![AWS Diagram](media/front.png)
 
+![AWS Diagram](media/Front.png)
 
 ---
 
