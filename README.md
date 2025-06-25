@@ -4,7 +4,7 @@
 
 This hands-on project demonstrates the deployment of a secure "Two-tier architecture" on AWS, using a custom Virtual Private Cloud (VPC) and proper infrastructure segmentation. The application layer is hosted on an EC2 instance (public subnet), while the data layer uses Amazon RDS (private subnet), following AWS best practices for security and scalability.
 
-🔗 [Watch the demo on Google Drive](https://drive.google.com/file/d/1Jfb-y5TptDA6Z86kNRrBo8UZ0E9rfH7u/view?usp=drive_link)
+🔗 [Click here to watch project demo](https://drive.google.com/file/d/1Jfb-y5TptDA6Z86kNRrBo8UZ0E9rfH7u/view?usp=drive_link)
 ---
 
 ## 🧩 Architecture Components
